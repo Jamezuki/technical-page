@@ -1,4 +1,4 @@
-# Technical Documentation Page
+# Technical Page
 
 ## [Live Demo](https://jamezuki.github.io/technical-page/)
 
